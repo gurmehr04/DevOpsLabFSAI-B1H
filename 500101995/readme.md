@@ -12,6 +12,7 @@
 | 5  | Git Submodules                       | [Git Submodules](lab_5.md) |
 | 6  | FastAPI & Dockerize                  | [FastAPI Docker](lab_6.md) |
 | 7  | Git Fork & Open Source Contributions | [Git Fork Contributions](lab_7.md) |
+| 8  | Jenkins Installation | [Jenkins Installation](lab_8.md) |
 
 ---
 
